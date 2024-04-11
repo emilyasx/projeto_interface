@@ -1,0 +1,79 @@
+/* Estilos globais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #bb1515be;
+    color:#fff ;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+
+main {
+    padding: 20px;
+}
+
+/* Estilos específicos para cada página */
+h1 {
+    text-align: center;
+}
+
+main p {
+    text-align: center;
+}
+
+/* Estilos para as imagens */
+img {
+    display: block;
+    margin: 0 auto;
+    
+}
+
+/* Estilos para as tabelas */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #333;
+    color: #fff;
+}
+
+/* Estilos para o vídeo e áudio */
+video, audio {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+

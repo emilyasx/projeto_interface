@@ -1,0 +1,4 @@
+/* Estilo para centralizar os títulos */
+h1, h2 {
+    text-align: center;
+}
