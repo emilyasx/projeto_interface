@@ -263,6 +263,25 @@ input[type="reset"]:hover {
     background-color: #555;
 }
 
+/* estiliza pagina bebidas*/
+
+.drink-menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+ 
+.drink-menu image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.drink-h1 {
+    padding:40px ;
+    text-align: center;
+}
 
 /* estilização rodape*/ 
 
