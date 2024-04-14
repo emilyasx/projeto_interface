@@ -5,6 +5,7 @@ body {
     font-style:italic;
     margin: 0;
     padding: 0;
+    background-color: #bb1515be;
 }
 header {
     background-color: #bb1515be;
@@ -13,31 +14,33 @@ header {
     text-align: center;
 }
 
-nav ul {
-    list-style-type: none;
-    padding: 0;
-}
 
 nav ul li {
     display: inline;
     margin-right: 20px;
+        
 }
 
-nav ul li a {
-    color: #fff;
-    text-decoration: none;
-}
 
 main {
     padding: 20px;
-    background-color: rgb(255, 171, 188);
 }
 
+img{
+    width: 100%;
+    position: relative;
+    display: inline-block;
+}
 
 h1  {
     text-align: center;
     
 }
+
+
+
+/*e estilização do formulário ontato*/ 
+
 
 form {
     background-color: #fff;
